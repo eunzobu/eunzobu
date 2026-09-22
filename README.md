@@ -1,3 +1,5 @@
+<img src="profile.jpg" alt="김조은 프로필 사진" width="135" align="right">
+
 # 김조은 | Embedded Systems
 
 임베디드시스템을 전공하며 센서 데이터 수집부터 서버 연동과 AI 적용까지 경험했습니다. IoT와 Edge SW를 기반으로 데이터가 실제 서비스로 이어지는 시스템 개발에 관심이 있습니다.
@@ -20,5 +22,5 @@ IoT / Edge SW / Server / System Integration / Cloud / AI / Data
 
 ## 경험
 
-- KETI 현장실습
+- 한국전자기술연구원(KETI) 메디컬IT융합연구센터 현장실습
 - LG Aimers 7기 / 9기
